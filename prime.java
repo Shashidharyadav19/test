@@ -2,10 +2,10 @@ class prime
 {
 public static void main(String args[])
 {
-int start=1,num=4,count=0;
-while(start<=num)
+int start=1,num=5,count=0,end=num;
+while(start<=end)
 {
-if(num%start==0)
+if(end%start==0)
 {
 count++;
 }

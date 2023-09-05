@@ -2,11 +2,11 @@ class natural
 {
 public static void main(String args[])
 {
-int num=15,x=1,y=0,c=15;
-while(x<=c)
+int num=5,x=1,y=0;
+while(x<=num)
 {
-y=y+c;
-c--;
+y=y+x;
+x++;
 }
 System.out.println(y);
 }
