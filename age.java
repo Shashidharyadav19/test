@@ -2,7 +2,7 @@ class Age
 {
 	public static void main (String args[])
 	{
-	int birth=2000;
+	int birth=1900;
 	int present=2023;
 	int age=present-birth;
 	System.out.println("age="+age);
