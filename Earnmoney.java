@@ -2,7 +2,7 @@ class Earnmoney
 {
 	public static void main(String[] args) 
 	{
-    String website_name="Earneasy24";
+    String website_name="shashi";
     System.out.println("Earneasy24_online_earnmoneysite="+website_name);
     String sign_in="netthetlashashi@gmail.com";
     System.out.println("sign_in_with_gmail="+sign_in);
