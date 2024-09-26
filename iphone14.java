@@ -18,6 +18,7 @@ class gagan
 	double exchange=7000;
 	double finalprize=totalprize-exchange;
 	System.out.println("finalprize="+finalprize);
+	Systrm.out.println("hello shashi")
 
 
 
